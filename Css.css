@@ -1,0 +1,30 @@
+.dh-planeSheet{
+  background-color: #f8f8f8;
+  height:90%;width: 50%;
+  margin:auto;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+.mb-3{
+  margin-left:10px;
+  margin-right: 10px;
+  
+}
+.dh-profile{
+  height:30%;
+  width:30%;
+  margin-left:40%;
+  
+}
+.col-md-4{
+  width:50%;
+}
+label{
+ padding:5px; 
+}
+.col-sm-8{
+  width:100%;
+}
+  
